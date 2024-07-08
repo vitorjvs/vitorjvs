@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 🌱 Sou um graduando em Ciência da Computação, 24 anos, aspirante a Desenvolvimento de Soluções de TI.
+- 🌱 Sou um graduando em Ciência da Computação, 25 anos, aspirante a Desenvolvimento de Soluções de TI.
 - 💬 Contate-me no email: jose.vsantos2804@gmail.com
 
 <div style="display: inline-block"> <br>
